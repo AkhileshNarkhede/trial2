@@ -8,4 +8,8 @@ hello !
 
 ## local development
 
-1.open html file in browser
+1.open html file in browser 
+
+## hello2 
+ 
+2.open readme
